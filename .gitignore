@@ -1,0 +1,33 @@
+# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# Visual Studio cache
+*.cache
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Environment files
+.env
+
+# NuGet
+packages/
+
+# Rider
+.idea/
+
+# OS generated
+.DS_Store
+
+# Visual Studio Code
+.vscode/
